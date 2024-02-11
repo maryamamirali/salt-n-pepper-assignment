@@ -1,0 +1,121 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    color: #ffffff;
+}
+
+body{
+    background-color: #000000;
+    text-transform: capitalize;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.logo1{
+    width: 165px;
+} 
+
+.franchise-button{
+    border: 1px solid #ffffff;
+    padding: 15px 20px;
+    border-radius: 25px;
+    background-color: transparent;
+}
+
+.order-button{
+    border: 1px solid #ffffff;
+    padding: 15px 20px;
+    border-radius: 25px;
+    background-color: #ed1c24;
+}
+
+.head{
+    text-align: center;
+}
+
+.nav{
+margin-left:440px;
+gap: 40px;
+}
+
+.form{
+    margin-left: 440px;
+}
+
+.btn6{
+    border: 1px solid #ffffff;
+    padding: 12px 30px;
+    border-radius: 25px;
+    background-color:  #ed1c24;
+    margin-left: 200px;
+}
+
+.img4{
+    width: 510px;
+    border: 1px solid #a8a5a5;
+    margin-left:80px;
+}
+    
+h1{
+    text-align: center;
+}
+    
+.text1{
+    text-align: center;
+}
+    
+.text2{
+    margin-left: 70px; 
+    color: rgba(255, 255, 255, 0.7);
+}
+    
+.text3{
+    margin-bottom: 100px;
+    margin-left: 80px;
+    color: rgba(241, 239, 239, 0.7);
+}
+    
+.text4{
+    margin-left: 170px;  
+    color: rgba(255, 255, 255, 0.7); 
+}
+
+.border{
+    margin-left:600px;
+    padding: 12px 80px;
+}
+    
+.border1{
+margin-left: 280px;
+}
+
+.border2{
+margin-left: 200px;
+}
+
+.zoom{
+    padding: 12px 80px;
+}
+
+.form1{
+    color: #000;
+    font-size: 15px;
+}
+
+.logo{
+    width: 165px;
+    }
+    
+li{
+    list-style-type: none;
+}
+
+.border3{
+    margin-left: 600px;
+}
+
+.border4{
+    color: #000;
+font-size: 12px;
+align-items: start;
+}
